@@ -26,7 +26,7 @@ This application has a completely anonymous and personalized registration system
 
 
 
-### in the future.
+### In the Future
 
 We hope our application can be used in classrooms and by teenagers with learning motives.
 We also want to incorporate the game factor, reputation points to 'unlock' levels or non-public sections of the app and predetermined answers.
